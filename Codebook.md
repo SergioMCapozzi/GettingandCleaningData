@@ -111,3 +111,5 @@ frequencyBodyGyroscopeJerkMagnitude-mean()
 frequencyBodyGyroscopeJerkMagnitude-std()
 
 Per the assignment, a mean for each of these variables was calculated and included in the tidy dataset.
+
+And hopefully this codebook looks ok in GitHub. Not sure how to make it more readable from a visual perspective. Figure it's more important to get something posted before the deadline!
