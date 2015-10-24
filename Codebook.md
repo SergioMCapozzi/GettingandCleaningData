@@ -29,6 +29,7 @@ The data includes various measurements from a group of 30 volunteers (ages: 19-4
 Variable Names and Descriptions
 
 Note: additional information about the original data is available in the features_info.txt file provided with the data.
+In general, the information from this file is not repeated here.
 
 subject	ID = ranges from 1 to 30, each number representing a participant in the study.
 Activity = activity names for tracked activities including:
@@ -108,3 +109,5 @@ frequencyBodyGyroscopeMagnitude-mean()
 frequencyBodyGyroscopeMagnitude-std()
 frequencyBodyGyroscopeJerkMagnitude-mean()
 frequencyBodyGyroscopeJerkMagnitude-std()
+
+Per the assignment, a mean for each of these variables was calculated and included in the tidy dataset.
